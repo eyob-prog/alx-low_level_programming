@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main Entry point
+* main -  Entry point
 *
 * Description: Checks if number is greater or less or equale to 0
 * Return: Always (Success/correct)
